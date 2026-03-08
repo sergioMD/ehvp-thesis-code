@@ -1,6 +1,6 @@
 # Analysis Code for Doctoral Thesis
 
-**Reaching the Unreached: Targeting, Effectiveness, and Costs of an Extended Home Visiting Programme in Sweden**
+**[THESIS TITLE]**
 
 Sergio Flores
 Department of Public Health and Caring Sciences, Uppsala University
@@ -14,10 +14,10 @@ This repository contains the analysis code for a doctoral thesis examining the E
 
 | Paper | Title | Analysis |
 |-------|-------|----------|
-| I | Targeting disadvantage in universal systems: a register-based study of Care Need Index validity for predicting paediatric health burden | `paper-i-targeting/` |
-| II | Reaching the unreached: a qualitative study of families' and professionals' experiences of an extended home visiting programme | *(Qualitative; no statistical code)* |
-| III | Effects of an extended home visiting programme on healthcare utilisation during the first year of life | `paper-iii-effects/` |
-| IV | Scaling an equity-oriented extended home visiting programme in Sweden: costs and cross-sectoral fiscal distribution | `paper-iv-costing/` |
+| I | Targeting Equity in Early Childhood: Resource Allocation in Sweden's Extended Home Visiting Program | `paper-i-targeting/` |
+| II | Experiences of Central Child Health Services Teams Regarding a Special Governmental Investment in Child Health Services | *(Qualitative; no statistical code)* |
+| III | Effects of an Extended Home Visiting Programme on Healthcare Utilisation During the First Year of Life in Socioeconomically Disadvantaged Neighbourhoods in Sweden: A Quasi-Experimental Study | `paper-iii-effects/` |
+| IV | Scaling an Equity-Oriented Extended Home Visiting Programme in Sweden: Costs and Cross-Sectoral Fiscal Distribution | `paper-iv-costing/` |
 
 ## Data availability
 
@@ -114,8 +114,7 @@ source("code/costing_analysis.R")
 If you use this code, please cite:
 
 ```
-Flores, S. (2026). Reaching the Unreached: Targeting, Effectiveness, and Costs of
-an Extended Home Visiting Programme in Sweden [Doctoral thesis, Uppsala University].
+Flores, S. (2026). [THESIS TITLE] [Doctoral thesis, Uppsala University].
 ```
 
 ## Contact
