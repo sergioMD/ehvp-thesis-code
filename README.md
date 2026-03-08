@@ -1,6 +1,6 @@
 # Analysis Code for Doctoral Thesis
 
-**[THESIS TITLE]**
+**Reaching the Unreached: Targeting, Effectiveness, and Costs of an Extended Home Visiting Programme in Sweden**
 
 Sergio Flores
 Department of Public Health and Caring Sciences, Uppsala University
@@ -114,7 +114,8 @@ source("code/costing_analysis.R")
 If you use this code, please cite:
 
 ```
-Flores, S. (2026). [THESIS TITLE] [Doctoral thesis, Uppsala University].
+Flores, S. (2026). Reaching the Unreached: Targeting, Effectiveness, and Costs of
+an Extended Home Visiting Programme in Sweden [Doctoral thesis, Uppsala University].
 ```
 
 ## Contact
