@@ -6,7 +6,7 @@ Sergio Flores
 Department of Public Health and Caring Sciences, Uppsala University
 2026
 
-[![DOI](https://zenodo.org/badge/DOI/XXXXX.svg)](https://doi.org/XXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18912235.svg)](https://doi.org/10.5281/zenodo.18912235)
 
 ## Overview
 
