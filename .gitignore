@@ -1,0 +1,35 @@
+# Data files (register data cannot be shared)
+*.csv
+*.rds
+*.RData
+*.rda
+*.dta
+*.sav
+*.xlsx
+*.xls
+
+# R environment
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Output files
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.html
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
